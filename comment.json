@@ -1,1 +1,17 @@
-[{"name":"John Doe","comment":"I fell in a pit!","date_and_time":"25 January 20:34"},{"name":"Marie Doe","comment":"Love the service!","date_and_time":"25 January 20:35"}]
+[
+  {
+    "name": "John Doe",
+    "comment": "I fell in a pit!",
+    "date_and_time": "25 January 20:34"
+  },
+  {
+    "name": "Marie Doe",
+    "comment": "Love the service!",
+    "date_and_time": "25 January 20:35"
+  },
+  {
+    "name": "John Smith",
+    "comment": "I hate my room!",
+    "date_and_time": "25 January 20:35"
+  }
+]
